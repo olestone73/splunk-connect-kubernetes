@@ -1,5 +1,6 @@
-# Splunk Connect for Kubernetes #
+# Splunk-server and splunk-connect-for-kubernetes 
 
+Splunk-server is 
 Splunk Connect for Kubernetes (the connector), is a [Helm](https://github.com/kubernetes/helm) chart that once installed, will create Kubernetes objects in a Kubernetes cluster to collect the cluster's data and send them to [splunk](https://www.splunk.com/) so that you can get insights from your cluster.
 
 The connector contains three Helm Charts to manage Splunk Connect for Kubernetes:
