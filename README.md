@@ -1,1 +1,0 @@
-# splunk-connect-kubernetes
